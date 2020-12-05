@@ -12,3 +12,12 @@ computacional pode ser divido em três etapas, sendo elas: a abstração, que tr
 solução computacional. O profissional do século XXI, independente da área de atuação, só tem a ganhar com a exposição precoce a este tipo de raciocínio, o qual desenvolve 
 a capacidade de compreender, definir, modelar, comparar, solucionar, automatizar e analisar problemas de forma metódica e sistémica, desenvolvendo também uma série de outras 
 habilidades, como: pensamento crítico, criatividade, comunicação, colaboração, flexibilidade e adaptibilidade, dentre outras.
+
+
+![Z-Imagem-Extra-6](https://user-images.githubusercontent.com/75487136/101230469-35bb9180-3684-11eb-80d9-42f1c8cd75ec.png)
+
+
+
+A respeito do vídeo "Computational Thinking: What Is It? How Is It Used?" do canal Paxton/Patterson, ele trata de conceituar o pensamento computacional, além de demonstrar
+como o mesmo funciona. Em questão de definição, pensamento computacional trata-se de um método para formular um problema e expressar uma solução. O pensamento computacional 
+envolve 4 passos principais, sendo o primeiro passo, a decomposição, onde  é preciso quebrar um problema complexo em partes menores, facilitando a maneira de lidar com o problema, o segundo passo seria a habilidade de reconhecer padrões, em seguida, a abstração, a qual trata de identificar similaridades e diferenças específicas entre problemas semelhantes para trabalhar uma solução, por fim, o algoritmo, o qual envolve desenvolver instruções passo a passo para resolver o problema. O pensamento computacional pode ser usado para solucionar problemas que inicialmente parecem impossíveis, é uma habilidade poderosoa que pode ser usada de diversas formas. 
