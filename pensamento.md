@@ -1,5 +1,6 @@
 ![educadores-4-0-pensamento-computacional](https://user-images.githubusercontent.com/75487136/101224668-144fab00-366e-11eb-8503-2526aa866497.jpg)
 
+<img scr="link da imagem" height="altura em pixels" width="largura em pixels">
 
 
 
